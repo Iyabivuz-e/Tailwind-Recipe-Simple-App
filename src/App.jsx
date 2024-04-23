@@ -18,7 +18,7 @@ const App = () => {
       <Meal/>
       <Category/>
       <NewsLetter/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   )
 }
